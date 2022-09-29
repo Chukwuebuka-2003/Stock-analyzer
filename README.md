@@ -61,3 +61,9 @@ The average growth rate of a stock is 10%.
 Net Profit Margin (also known as “Profit Margin” or “Net Profit Margin Ratio”) is a financial ratio used to calculate the percentage of profit a company produces from its total revenue.
 
 It measures the amount of net profit a company obtains per dollar of revenue gained.
+
+The stock market is a wonderful investment vehicle, but it doesn't tolerate rash decisions that aren't backed up by understanding the fundamentals.
+
+I believe this repository and the program would assist you in your investment journey.
+
+Thanks
