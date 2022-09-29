@@ -84,7 +84,7 @@ Net Profit Margin (also known as “Profit Margin” or “Net Profit Margin Rat
 It measures the amount of net profit a company obtains per dollar of revenue gained.
 
 # THE MODEL I USED
-In this stock analysis program, i used the Discounted Cash Flow (DCF) method to execute analysis on publicly traded company stocks.
+In this stock analysis program, i used the Discounted Cash Flow (DCF) model to execute analysis on publicly traded company stocks.
 
 # Conclusion
 The stock market is a wonderful investment vehicle, but it doesn't tolerate rash decisions that aren't backed up by understanding the fundamentals.
