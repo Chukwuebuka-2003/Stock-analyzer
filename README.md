@@ -62,6 +62,7 @@ Net Profit Margin (also known as “Profit Margin” or “Net Profit Margin Rat
 
 It measures the amount of net profit a company obtains per dollar of revenue gained.
 
+# Conclusion
 The stock market is a wonderful investment vehicle, but it doesn't tolerate rash decisions that aren't backed up by understanding the fundamentals.
 
 I believe this repository and the program would assist you in your investment journey.
