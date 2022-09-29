@@ -64,6 +64,14 @@ Free cash flow per share (FCF) is a measure of a company's financial flexibility
 
 It's the minimum return an investor will accept for owning a company's stock, as compensation for a given level of risk associated with holding the stock.
 
+The average rate of return in a stock is 10%
+
+
+![rrr](https://user-images.githubusercontent.com/56232734/193135538-1a23cdd3-d8b4-402b-887c-9b532223719c.PNG)
+
+
+
+
 # DISCOUNT FACTORS/RATE
 The discount rate refers to the interest rate used in discounted cash flow (DCF) analysis to determine the present value of future cash flows.
 
