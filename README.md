@@ -64,7 +64,7 @@ Free cash flow per share (FCF) is a measure of a company's financial flexibility
 
 It's the minimum return an investor will accept for owning a company's stock, as compensation for a given level of risk associated with holding the stock.
 
-The average rate of return in a stock is 10%
+The average required rate of return in a stock is 10%
 
 
 ![rrr](https://user-images.githubusercontent.com/56232734/193135538-1a23cdd3-d8b4-402b-887c-9b532223719c.PNG)
@@ -78,13 +78,17 @@ The discount rate refers to the interest rate used in discounted cash flow (DCF)
 # AVERAGE GROWTH RATE
 The average growth rate of a stock is 10%.
 
-# NET PROFI MARGIN
+# NET PROFIT MARGIN
 Net Profit Margin (also known as “Profit Margin” or “Net Profit Margin Ratio”) is a financial ratio used to calculate the percentage of profit a company produces from its total revenue.
 
 It measures the amount of net profit a company obtains per dollar of revenue gained.
 
+# THE MODEL I USED
+In this stock analysis program, i used the Discounted Cash Flow (DCF) method to execute analysis on publicly traded company stocks.
+
 # Conclusion
 The stock market is a wonderful investment vehicle, but it doesn't tolerate rash decisions that aren't backed up by understanding the fundamentals.
+
 
 I believe this repository and the program would assist you in your investment journey.
 
