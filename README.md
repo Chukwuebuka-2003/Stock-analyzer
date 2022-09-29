@@ -18,6 +18,9 @@ Traditionally stock fundamental analysis weren't automated. Thanks to Python, yo
 3. QUICK FLOAT.
 4. NET PROFIT MARGIN.
 5. RETURN ON ASSETS
+6. AVERAGE NET INCOME GROWTH RATE.
+7. COST OF DEBT.
+8. REQUIRED RATE OF RETURN
 
 
 # EBIT (EARNINGS BEFORE INTERESTS AND TAXES)
@@ -29,3 +32,5 @@ It's an indicator of a company's profitability calculated as revenue minus expen
 
 Net income growth shows how rapidly a company has been able to boost its "bottom line." 
 Growth investors might look for companies with net income growth of, say, 20% or more.
+
+# COST 
