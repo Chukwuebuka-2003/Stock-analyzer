@@ -21,4 +21,5 @@ Traditionally stock fundamental analysis weren't automated. Thanks to Python, yo
 
 
 # EBIT (EARNINGS BEFORE INTERESTS AND TAXES)
-This is an important metric to know how a company utilizes its assets and capital
+This is an important metric to know how a company utilizes its assets and capital.
+It's an indicator of a company's profitability calculated as revenue minus expenses excluding tax and interest.
