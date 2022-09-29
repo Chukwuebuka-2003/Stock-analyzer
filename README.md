@@ -13,7 +13,7 @@ Traditionally, stock fundamental analysis weren't automated. Thanks to Python, y
 
 # These are the important metrics needed when analyzing a stock:
 
-1. EBIT
+1. EBITDA
 2. CAGR (Cummulative Annual Growth Rate)
 3. QUICK FLOAT.
 4. NET PROFIT MARGIN.
@@ -23,12 +23,12 @@ Traditionally, stock fundamental analysis weren't automated. Thanks to Python, y
 8. REQUIRED RATE OF RETURN
 
 
-# EBIT (EARNINGS BEFORE INTERESTS AND TAXES)
+# EBITDA (EARNINGS BEFORE INTERESTS, TAXES, DEPRECIATION AND AMORTIZATION)
 This is an important metric to know how a company utilizes its assets and capital.
 It's an indicator of a company's profitability calculated as revenue minus expenses excluding tax and interest.
 
 EBITDA FORMULA:
-EBITDA = Net Income + Interest Expense + Taxes + Depreciation + Amortization = Net Income from Operations.
+EBITDA= Net Income + Interest Expense + Taxes + Depreciation + Amortization.
 
 # AVERAGE NET INCOME GROWTH RATE
 
