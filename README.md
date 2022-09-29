@@ -55,4 +55,9 @@ It's the minimum return an investor will accept for owning a company's stock, as
 The discount rate refers to the interest rate used in discounted cash flow (DCF) analysis to determine the present value of future cash flows.
 
 # AVERAGE GROWTH RATE
-The average growth rate of a stock is 10%
+The average growth rate of a stock is 10%.
+
+# NET PROFI MARGIN
+Net Profit Margin (also known as “Profit Margin” or “Net Profit Margin Ratio”) is a financial ratio used to calculate the percentage of profit a company produces from its total revenue.
+
+It measures the amount of net profit a company obtains per dollar of revenue gained.
