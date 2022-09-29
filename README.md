@@ -13,8 +13,9 @@ Traditionally stock fundamental analysis weren't automated. Thanks to Python, yo
 
 # These are the important metrics needed when analyzing a stock:
 
-1.EBIT
-2.QUICK FLOAT
+1. EBIT
+2. CAGR (Cummulative Annual Growth Rate)
+3. QUICK FLOAT
 
 
 # EBIT (EARNINGS BEFORE INTERESTS AND TAXES)
