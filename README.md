@@ -23,3 +23,9 @@ Traditionally stock fundamental analysis weren't automated. Thanks to Python, yo
 # EBIT (EARNINGS BEFORE INTERESTS AND TAXES)
 This is an important metric to know how a company utilizes its assets and capital.
 It's an indicator of a company's profitability calculated as revenue minus expenses excluding tax and interest.
+
+# AVERAGE NET INCOME GROWTH RATE
+
+
+Net income growth shows how rapidly a company has been able to boost its "bottom line." 
+Growth investors might look for companies with net income growth of, say, 20% or more.
