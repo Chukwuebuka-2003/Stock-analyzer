@@ -9,7 +9,7 @@ Most new investors, might see a stock trending and decide to buy the shares in t
 What's more effective when investing in a stock, is to calculate the fundamental analysis of that stock. 
 Without a proper analysis of a stock, you might buy an overvalued stock and that could lead toa poor returns on investment.
 
-Traditionally stock fundamental analysis weren't automated. Thanks to Python, you can analyze any stock without the stress of analyzing traditionally.
+Traditionally, stock fundamental analysis weren't automated. Thanks to Python, you can analyze any stock without the stress of analyzing traditionally.
 
 # These are the important metrics needed when analyzing a stock:
 
@@ -50,3 +50,6 @@ Free cash flow per share (FCF) is a measure of a company's financial flexibility
 # REQUIRED RATE OF RETURN (RRR)
 
 It's the minimum return an investor will accept for owning a company's stock, as compensation for a given level of risk associated with holding the stock.
+
+# DISCOUNT FACTORS/RATE
+The discount rate refers to the interest rate used in discounted cash flow (DCF) analysis to determine the present value of future cash flows.
