@@ -11,5 +11,5 @@ Without a proper analysis of a stock, you might buy an overvalued stock and that
 
 Traditionally stock fundamental analysis weren't automated. Thanks to Python, you can analyze any stock without the stress of analyzing traditionally.
 
-#EBIT (EARNINGS BEFORE INTERESTS AND TAXES)
-This is an
+# EBIT (EARNINGS BEFORE INTERESTS AND TAXES)
+This is an important metric to know how a company utilizes its assets and capital
