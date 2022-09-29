@@ -30,6 +30,9 @@ It's an indicator of a company's profitability calculated as revenue minus expen
 EBITDA FORMULA:
 EBITDA= Net Income + Interest Expense + Taxes + Depreciation + Amortization.
 
+![ebitda](https://user-images.githubusercontent.com/56232734/193130196-e502d97e-b123-4cb2-82d5-55e9e13ecb09.PNG)
+
+
 # AVERAGE NET INCOME GROWTH RATE
 
 
