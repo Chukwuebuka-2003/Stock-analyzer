@@ -45,3 +45,4 @@ The terminal value calculation estimates the value of the company after the fore
 # FCF (Free cash flow)
 
 
+Free cash flow per share (FCF) is a measure of a company's financial flexibility that is determined by dividing free cash flow by the total number of shares outstanding.
