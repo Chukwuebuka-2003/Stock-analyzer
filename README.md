@@ -53,3 +53,6 @@ It's the minimum return an investor will accept for owning a company's stock, as
 
 # DISCOUNT FACTORS/RATE
 The discount rate refers to the interest rate used in discounted cash flow (DCF) analysis to determine the present value of future cash flows.
+
+# AVERAGE GROWTH RATE
+The average growth rate of a stock is 10%
