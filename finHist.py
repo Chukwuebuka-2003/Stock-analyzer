@@ -79,12 +79,12 @@ for i in range(years+1):
     total_cash = total_cash_from_operating_activities[i]
     capex = capital_expenditure[i]
 
-    net borrowings = financials.loc['Net Borrowings'][i]
+    #net borrowings = financials.loc['Net Borrowings'][i]
 
     fcf[current_year - i] = total_cash + capex
 
 
-print(stockTicker, 'net borrowings are', net borrowings)
+
 #fcf to net income
 
 fcf_to_net_income = { }
