@@ -36,3 +36,8 @@ Growth investors might look for companies with net income growth of, say, 20% or
 # COST OF DEBT
 The cost of debt is the effective rate that a company pays on its debt, such as bonds and loans. Debt is one part of a company's capital structure, with the other being equity. 
 Calculating the cost of debt involves finding the average interest paid on all of a company's debts.
+
+# TERMINAL VALUE
+
+Terminal value is calculated by dividing the last cash flow forecast by the difference between the discount rate and terminal growth rate. 
+The terminal value calculation estimates the value of the company after the forecast period
