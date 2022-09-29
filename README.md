@@ -46,3 +46,7 @@ The terminal value calculation estimates the value of the company after the fore
 
 
 Free cash flow per share (FCF) is a measure of a company's financial flexibility that is determined by dividing free cash flow by the total number of shares outstanding.
+
+# REQUIRED RATE OF RETURN (RRR)
+
+It's the minimum return an investor will accept for owning a company's stock, as compensation for a given level of risk associated with holding the stock.
