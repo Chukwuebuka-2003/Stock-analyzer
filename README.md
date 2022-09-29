@@ -27,6 +27,9 @@ Traditionally, stock fundamental analysis weren't automated. Thanks to Python, y
 This is an important metric to know how a company utilizes its assets and capital.
 It's an indicator of a company's profitability calculated as revenue minus expenses excluding tax and interest.
 
+EBITDA FORMULA:
+EBITDA = Net Income + Interest Expense + Taxes + Depreciation + Amortization = Net Income from Operations.
+
 # AVERAGE NET INCOME GROWTH RATE
 
 
