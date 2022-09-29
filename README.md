@@ -50,6 +50,11 @@ Calculating the cost of debt involves finding the average interest paid on all o
 Terminal value is calculated by dividing the last cash flow forecast by the difference between the discount rate and terminal growth rate. 
 The terminal value calculation estimates the value of the company after the forecast period.
 
+
+![term](https://user-images.githubusercontent.com/56232734/193134052-e49e4301-03b5-48a1-9e3d-0622eaebf9a1.PNG)
+
+
+
 # FCF (Free cash flow)
 
 
