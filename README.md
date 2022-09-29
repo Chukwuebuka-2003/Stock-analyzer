@@ -35,6 +35,8 @@ EBITDA= Net Income + Interest Expense + Taxes + Depreciation + Amortization.
 
 # AVERAGE NET INCOME GROWTH RATE
 
+![an](https://user-images.githubusercontent.com/56232734/193132319-bc6fb1c8-b9f1-476f-a2df-4d65aa334450.PNG)
+
 
 Net income growth shows how rapidly a company has been able to boost its "bottom line." 
 Growth investors might look for companies with net income growth of, say, 20% or more.
