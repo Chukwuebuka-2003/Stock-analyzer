@@ -99,7 +99,7 @@ print(fcf_to_net_income)
 
 #Calculate the Quick Ratio of a stock
 
-quick_ratio= total_assets/total_debt
+quick_ratio = total_assets/total_debt
 
 print(stockTicker, 'Quick Ratio are',quick_ratio)
 
