@@ -97,11 +97,11 @@ for i in range(1,years +1):
 print(fcf_to_net_income)
 
 
-#Calculate the Quick float of a stock
+#Calculate the Quick Ratio of a stock
 
-quick_float = total_assets/total_debt
+quick_ratio= total_assets/total_debt
 
-print(stockTicker, 'Quick Floats are',quick_float)
+print(stockTicker, 'Quick Ratio are',quick_ratio)
 
 
 
