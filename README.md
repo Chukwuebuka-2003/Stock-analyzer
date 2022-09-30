@@ -15,7 +15,7 @@ Traditionally, stock fundamental analysis weren't automated. Thanks to Python, y
 
 1. EBITDA
 2. CAGR (Cummulative Annual Growth Rate)
-3. QUICK FLOAT.
+3. QUICK RATIO.
 4. NET PROFIT MARGIN.
 5. RETURN ON ASSETS
 6. AVERAGE NET INCOME GROWTH RATE.
